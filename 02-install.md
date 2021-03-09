@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Установка Git
 
 ## Linux
@@ -28,18 +27,3 @@ choco install git
 [Назад](./01-about.md) ~~
 [Содержание](./readme.md) ~~
 [Дальше](./03-setup.md)
-=======
-# Установка Git
-
-## Linux
-
-## Windows
-
-## Mac
-
-***
-
-[Назад](./01-about.md) ~~
-[Содержание](./readme.md) ~~
-[Дальше]()
->>>>>>> origin/main
