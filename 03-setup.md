@@ -40,4 +40,4 @@ $ git config user.name
 
 [Назад](./02-install.md) ~~
 [Содержание](./readme.md) ~~
-[Дальше](./04-setup.md)
+[Дальше](./04-creating.md)
