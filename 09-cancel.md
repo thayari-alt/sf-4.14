@@ -31,4 +31,5 @@ git restore <имя файла>
 ***
 
 [Назад](./08-history.md) ~~
-[Содержание](./readme.md)
+[Содержание](./readme.md) ~~
+[Дальше](./10-gpages.md)

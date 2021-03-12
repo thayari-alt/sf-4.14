@@ -16,6 +16,7 @@ License: [CC BY-NC-SA 3.0](./license.md)
 7. [Ветвление](./07-branch.md)
 8. [Просмотр истории коммитов](./08-history.md)
 9. [Операции отмены](./09-cancel.md)
+10. [Размещение на Github Pages](./10-gpages.md)
 
 ***
 
